@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+*.out
+*.txt
+
+# Environment
+.venv/
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Large datasets or temp files
+*.csv
+*.h5
+*.npz
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
